@@ -438,7 +438,7 @@ DevSecOps Automation
 
 <div align="center">
 
-<a href="https://khotkarshubham.online/">
+<a href="https://khotkarshubham.in/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 

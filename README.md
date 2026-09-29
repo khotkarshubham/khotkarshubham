@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://khotkarshubham.online/">
+<a href="https://khotkarshubham.in/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-khotkarshubham.online-success?style=for-the-badge"/>
 </a>
 
